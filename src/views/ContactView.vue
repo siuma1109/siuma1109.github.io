@@ -1,5 +1,5 @@
 <template>
-  This is an about page
+  This is an contact page
 </template>
 
 <style>
