@@ -15,7 +15,7 @@ import CV from '../assets/2024_MATSUNKIT_CV.pdf'
       </a>
     </div>
     <div class="col-span-2 hidden md:block">
-      <img src="/src/assets/home/code-geek.png" class="w-100">
+      <img src="/src/assets/home/right.png" class="w-100 rounded-full">
     </div>
   </div>
 
